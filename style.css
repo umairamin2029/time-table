@@ -1,0 +1,40 @@
+header{
+    background-color: white ;   
+    } 
+    
+    .hg{
+          border-radius: 15px;
+        padding: 20px;
+        text-align: center;
+        border-collapse: collapse;
+        spacing:5px ;
+        word-spacing: 4px;  
+        margin:auto;  
+        
+    }
+    .container2{
+        background-color:gainsboro;
+    
+    }
+    
+    .ha{
+        text-align: center;
+    }
+    .button{
+        background-color:black;
+        border: 2px solid;
+       text-decoration: none;
+        color: white;
+       cursor: pointer;
+        padding: 2px 2px 4px 4px;
+     border-radius: 16%;
+     float: right;
+     margin-top: 25px;
+     margin-left: 20%;
+     
+    
+    }
+    .ftr{
+        text-align: center;
+        background-color: white;
+    }
